@@ -10,4 +10,13 @@
 "customisations": {
       "vscode": {
                 "extensions": [
+                              "GitHub.copilot"
+                ]
+      },
+      "codespaces": {
+                "openFiles": [
+                              "codespace.md"
+                ]
+      }
+}
                     
